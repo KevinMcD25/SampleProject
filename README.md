@@ -1,7 +1,8 @@
 # SampleProject
 This is a test.
 
-
-
-## Specific Part
+## BOLD
 This is also a **TEST**
+
+## italics
+This is also a *TEST*
